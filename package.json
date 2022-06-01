@@ -1,0 +1,11 @@
+{
+  "name": "cuid-test",
+  "description": "cuid test codes for needs",
+  "main": "index.js",
+  "author": "nori-k",
+  "license": "UNLICENCED",
+  "type": "module",
+  "dependencies": {
+    "cuid": "^2.1.8"
+  }
+}
