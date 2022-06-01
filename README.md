@@ -1,6 +1,6 @@
 # cuid-test
 
-- just checking what cuid is and what it's looks like.
+- just checking what cuid is and what/how it's looks like.
 - if you interested in what cuid looks like, just
   - `$ git pull` this.
   - do `$ npm i`
